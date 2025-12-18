@@ -1,0 +1,2 @@
+CREATE DATABASE BankingDB;
+USE BankingDB;
